@@ -8,7 +8,7 @@ I'm a newly graduated marketing student with data analysis skills looking for a 
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [thanapon.p@kkumail.com](mailto:thanapon.p@kkumail.com)
-* 📝  Here is my resume. 
+* 📝  Here is my resume. [Thanapon's Resume](https://github.com/Thanapon23/Thanapon23/blob/main/Thanapon's%20resume.pdf)
 
 ### Skills
 
