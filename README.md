@@ -6,7 +6,7 @@ Martketing, Data Analysis
 
 I'm a newly graduated marketing student with data analysis skills looking for a Data Analyst job, I have done data analysis projects and stored it on this GitHub account, You can check it on my repositories.
 
-* 🌍  I'm based in Khon Kaen, Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [thanapon.poothong@gmail.com](mailto:thanapon.poothong@gmail.com)
 * 📝  Here is my resume. [Thanapon's Resume](https://github.com/Thanapon23/Thanapon23/blob/main/Thanapon's%20resume.pdf)
 
