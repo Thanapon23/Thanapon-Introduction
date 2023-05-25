@@ -34,7 +34,6 @@ I'm a newly graduated marketing student with data analysis skills looking for a 
 
 <a href="http://www.github.com/Thanapon23"><img src="https://github-readme-stats.vercel.app/api?username=Thanapon23&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="Thanapon23's GitHub stats" /></a>
 
-<a href="http://www.github.com/Thanapon23"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thanapon23&bg_color=27272a&color=3382ed&line=22c55e&point=3382ed&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Thanapon23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanapon23&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
